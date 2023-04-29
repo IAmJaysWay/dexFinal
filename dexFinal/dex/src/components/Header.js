@@ -2,7 +2,7 @@ import React from "react";
 import Logo from "../moralis-logo.svg";
 import Eth from "../eth.svg";
 import { Link } from "react-router-dom";
-import { useDarkMode } from "../hooks/useDarkMode";
+import { useDarkMode } from "../useDarkMode";
 
 function Header(props) {
 
